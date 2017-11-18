@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     "name" : "Twitter Hacker",
     "version" : "1.0",
-    "description" : "Download Videos Instantly",
+    "description" : "Simple Twitter hacks",
     "icons": {
         "128": "icons/icon128.png",
         "48": "icons/icon48.png",
