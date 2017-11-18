@@ -9,4 +9,7 @@ Twitter chrome extension hack under 50 lines of code
 ### Images
 
 ![Character Count](https://pbs.twimg.com/media/DO51DGeUIAEXZ7u.jpg)
+
+---
+
 ![Highlight Retweets](https://pbs.twimg.com/media/DO51DGkVoAEuAsh.jpg)
