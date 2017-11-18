@@ -1,0 +1,16 @@
+{
+    "manifest_version" : 2,
+    "name" : "Twitter Hacker",
+    "version" : "1.0",
+    "description" : "Download Videos Instantly",
+    "icons": {
+        "128": "icons/icon128.png",
+        "48": "icons/icon48.png",
+        "16": "icons/icon16.png"
+    },
+    "content_scripts": [{
+        "matches": ["https://www.twitter.com/*", "https://twitter.com/*"],
+        "css" : ["extension.css"],
+        "js": ["jquery.js", "contentscript.js"]
+    }]
+}
